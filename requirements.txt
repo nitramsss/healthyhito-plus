@@ -1,0 +1,5 @@
+Django==6.0.2
+djangorestframework
+markdown
+django-filter
+djangorestframework-simplejwt
